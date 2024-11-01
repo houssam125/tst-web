@@ -35,7 +35,7 @@ section {
 .content_container .fean ul,
 .content_container .opening_hours ul {
     padding: 0;
-    /* Reset padding for lists */
+  
 }
 
 .content_container ul li {
@@ -59,7 +59,6 @@ section {
     margin-bottom: 20px;
     font-family: 'Dancing Script', cursive;
     margin-right: 20px;
-    /* Consider using a more flexible layout instead */
     display: block;
     font-weight: bold;
     font-size: 38px;
